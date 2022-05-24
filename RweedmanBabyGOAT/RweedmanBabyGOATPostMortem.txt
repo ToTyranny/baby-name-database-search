@@ -1,0 +1,22 @@
+Postmortem:
+
+I worked on this for three days.
+
+Friday:
+After not being able to do this on Thursday due to dialysis, I spent the entire day trying to 
+get my program to run on code released during lecture 8. I changed names, and separated values, 
+but ultimately failed to get my program to run because I couldn't figure out how to add to
+my data[2] structure.
+
+Saturday:
+After getting permission from the professor to view other lectures, I used code from lecture 9
+and struggled to remember how to access the data from the separate Data Class. An hour later, I
+remebered what I learned from lecture 8 and wrote all of the functions I needed fairly quickly.
+I wasn't able to start my day coding until about 6 pm, so I had to cut my time short.
+
+Sunday:
+I wrote part 6 and the comments on this day. part 6 was challenging, but only because I did not 
+want to use information from lecture 10. I, after taking a break, eventually figured out that I
+couldn't just skip ahead in the dictionary. I thought of a way to hold old information and using
+three entires of the dictionary to solve part 6. I now submit my assignment after spending at 
+least 18 hours on it.

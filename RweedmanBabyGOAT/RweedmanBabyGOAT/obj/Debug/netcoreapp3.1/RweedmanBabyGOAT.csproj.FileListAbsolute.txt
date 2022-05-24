@@ -1,0 +1,26 @@
+C:\Users\totyr\source\repos\RweedmanBabyGOAT\RweedmanBabyGOAT\bin\Debug\netcoreapp3.1\RweedmanBabyGOAT.exe
+C:\Users\totyr\source\repos\RweedmanBabyGOAT\RweedmanBabyGOAT\bin\Debug\netcoreapp3.1\RweedmanBabyGOAT.deps.json
+C:\Users\totyr\source\repos\RweedmanBabyGOAT\RweedmanBabyGOAT\bin\Debug\netcoreapp3.1\RweedmanBabyGOAT.runtimeconfig.json
+C:\Users\totyr\source\repos\RweedmanBabyGOAT\RweedmanBabyGOAT\bin\Debug\netcoreapp3.1\RweedmanBabyGOAT.runtimeconfig.dev.json
+C:\Users\totyr\source\repos\RweedmanBabyGOAT\RweedmanBabyGOAT\bin\Debug\netcoreapp3.1\RweedmanBabyGOAT.dll
+C:\Users\totyr\source\repos\RweedmanBabyGOAT\RweedmanBabyGOAT\bin\Debug\netcoreapp3.1\RweedmanBabyGOAT.pdb
+C:\Users\totyr\source\repos\RweedmanBabyGOAT\RweedmanBabyGOAT\obj\Debug\netcoreapp3.1\RweedmanBabyGOAT.csprojAssemblyReference.cache
+C:\Users\totyr\source\repos\RweedmanBabyGOAT\RweedmanBabyGOAT\obj\Debug\netcoreapp3.1\RweedmanBabyGOAT.AssemblyInfoInputs.cache
+C:\Users\totyr\source\repos\RweedmanBabyGOAT\RweedmanBabyGOAT\obj\Debug\netcoreapp3.1\RweedmanBabyGOAT.AssemblyInfo.cs
+C:\Users\totyr\source\repos\RweedmanBabyGOAT\RweedmanBabyGOAT\obj\Debug\netcoreapp3.1\RweedmanBabyGOAT.csproj.CoreCompileInputs.cache
+C:\Users\totyr\source\repos\RweedmanBabyGOAT\RweedmanBabyGOAT\obj\Debug\netcoreapp3.1\RweedmanBabyGOAT.dll
+C:\Users\totyr\source\repos\RweedmanBabyGOAT\RweedmanBabyGOAT\obj\Debug\netcoreapp3.1\RweedmanBabyGOAT.pdb
+C:\Users\totyr\source\repos\RweedmanBabyGOAT\RweedmanBabyGOAT\obj\Debug\netcoreapp3.1\RweedmanBabyGOAT.genruntimeconfig.cache
+C:\Users\totyr\OneDrive\Desktop\CS3020 C# and .NET\RweedmanBabyGOAT\RweedmanBabyGOAT\bin\Debug\netcoreapp3.1\RweedmanBabyGOAT.exe
+C:\Users\totyr\OneDrive\Desktop\CS3020 C# and .NET\RweedmanBabyGOAT\RweedmanBabyGOAT\bin\Debug\netcoreapp3.1\RweedmanBabyGOAT.deps.json
+C:\Users\totyr\OneDrive\Desktop\CS3020 C# and .NET\RweedmanBabyGOAT\RweedmanBabyGOAT\bin\Debug\netcoreapp3.1\RweedmanBabyGOAT.runtimeconfig.json
+C:\Users\totyr\OneDrive\Desktop\CS3020 C# and .NET\RweedmanBabyGOAT\RweedmanBabyGOAT\bin\Debug\netcoreapp3.1\RweedmanBabyGOAT.runtimeconfig.dev.json
+C:\Users\totyr\OneDrive\Desktop\CS3020 C# and .NET\RweedmanBabyGOAT\RweedmanBabyGOAT\bin\Debug\netcoreapp3.1\RweedmanBabyGOAT.dll
+C:\Users\totyr\OneDrive\Desktop\CS3020 C# and .NET\RweedmanBabyGOAT\RweedmanBabyGOAT\bin\Debug\netcoreapp3.1\RweedmanBabyGOAT.pdb
+C:\Users\totyr\OneDrive\Desktop\CS3020 C# and .NET\RweedmanBabyGOAT\RweedmanBabyGOAT\obj\Debug\netcoreapp3.1\RweedmanBabyGOAT.csprojAssemblyReference.cache
+C:\Users\totyr\OneDrive\Desktop\CS3020 C# and .NET\RweedmanBabyGOAT\RweedmanBabyGOAT\obj\Debug\netcoreapp3.1\RweedmanBabyGOAT.AssemblyInfoInputs.cache
+C:\Users\totyr\OneDrive\Desktop\CS3020 C# and .NET\RweedmanBabyGOAT\RweedmanBabyGOAT\obj\Debug\netcoreapp3.1\RweedmanBabyGOAT.AssemblyInfo.cs
+C:\Users\totyr\OneDrive\Desktop\CS3020 C# and .NET\RweedmanBabyGOAT\RweedmanBabyGOAT\obj\Debug\netcoreapp3.1\RweedmanBabyGOAT.csproj.CoreCompileInputs.cache
+C:\Users\totyr\OneDrive\Desktop\CS3020 C# and .NET\RweedmanBabyGOAT\RweedmanBabyGOAT\obj\Debug\netcoreapp3.1\RweedmanBabyGOAT.dll
+C:\Users\totyr\OneDrive\Desktop\CS3020 C# and .NET\RweedmanBabyGOAT\RweedmanBabyGOAT\obj\Debug\netcoreapp3.1\RweedmanBabyGOAT.pdb
+C:\Users\totyr\OneDrive\Desktop\CS3020 C# and .NET\RweedmanBabyGOAT\RweedmanBabyGOAT\obj\Debug\netcoreapp3.1\RweedmanBabyGOAT.genruntimeconfig.cache
